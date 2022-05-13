@@ -4,10 +4,10 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="psw"><b>broly</b></label>
+    <label for="psw"><b> Enter Password </b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
 
-    <label for="psw-repeat"><b>Repeat broly</b></label>
+    <label for="psw-repeat"><b> Repeat Password </b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
